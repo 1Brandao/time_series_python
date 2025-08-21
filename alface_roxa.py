@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Nome do Script: Teste.py
 Descrição: Este script processa o arquivo CSV de dados de vendas,
